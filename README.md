@@ -1,4 +1,4 @@
-# Terraform Provider AWX TEST
+# Terraform Provider AWX
 
 _Fork from [mrcrilly/terraform-provider-awx](https://github.com/mrcrilly/terraform-provider-awx) for develop additional functions_
 
